@@ -19,10 +19,6 @@ A simple counter application built with **React** and **Tailwind CSS**.
 - Tailwind CSS 4
 - Vite
 
-## 📸 Screenshot
-
-![Counter App](https://via.placeholder.com/600x400/amber50/amber600?text=Counter+App)
-
 ## 🏗️ Installation
 
 ```bash
