@@ -9,10 +9,6 @@ A simple counter application built with **React** and **Tailwind CSS**.
 - 🔄 Reset to zero
 - 🎨 Dynamic color — green (positive), amber (zero), red (negative)
 
-## 🚀 Live Demo
-
-[View Live](https://counter-app.vercel.app)
-
 ## 🛠️ Built With
 
 - React 19
