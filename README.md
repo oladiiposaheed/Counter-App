@@ -1,16 +1,33 @@
-# React + Vite
+# 🔢 Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple counter application built with **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- ➕ Increase count
+- ➖ Decrease count
+- 🔄 Reset to zero
+- 🎨 Dynamic color — green (positive), amber (zero), red (negative)
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[View Live](https://counter-app.vercel.app)
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 19
+- Tailwind CSS 4
+- Vite
+
+## 📸 Screenshot
+
+![Counter App](https://via.placeholder.com/600x400/amber50/amber600?text=Counter+App)
+
+## 🏗️ Installation
+
+```bash
+git clone https://github.com/oladiiposaheed/Counter-App.git
+cd counter-app
+npm install
+npm run dev
+```
